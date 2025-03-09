@@ -1,7 +1,5 @@
 # Proyek-Analisisi-Data-Submission
 
-# submission
-
 # How to set up
 ```
 install python 3.12
