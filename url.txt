@@ -1,0 +1,5 @@
+ini link atau tautan url 
+
+http://192.168.1.5:8501/
+
+https://wahyuozorahmanurungsubmission1.streamlit.app/
