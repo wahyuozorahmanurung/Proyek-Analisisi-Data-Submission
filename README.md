@@ -29,4 +29,5 @@ pip install streamlit babel
 ```
 cd dashboard
 streamlit run dashboard.py
+streamlit run dashboard.py --server.headless true
 ```
