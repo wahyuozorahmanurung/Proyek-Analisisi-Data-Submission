@@ -31,3 +31,6 @@ cd dashboard
 streamlit run dashboard.py
 streamlit run dashboard.py --server.headless true
 ```
+
+## Deploy
+https://wahyuozorahmanurungsubmission1.streamlit.app/
